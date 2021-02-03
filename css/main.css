@@ -1,0 +1,69 @@
+body{
+    background-color: blue;
+    font: 12px, arial helvetica sans-serif;
+}
+section{
+    width: 350px;
+    height: 550px;
+    background-color: white;
+    margin: 50px auto;
+    text-align: center;
+    border-radius: 5px;
+}
+button{
+    background-color: #6b8296;
+    width: 200px;
+    border-radius: 3px;
+    height: 40px;
+    border: none;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+form{
+    margin: 10px;
+}
+h5{
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h5.fullname{
+    padding-right: 120px;
+}
+h5.email{
+    padding-right: 95px;
+}
+input{
+    padding: 10px;
+}
+button#started{
+    padding: 10px;
+    width: 200px;
+    margin: 10px auto;
+    background-color: red;
+    border-radius: 3px;
+    
+    border: none;
+}
+h3{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+div.sign{
+    margin: 100px;
+    padding-top: 20px;
+}
+h5>a{
+    color: blue;
+}
+div.name{
+    padding-bottom: 20px;
+
+}
+div.mail{
+    padding-bottom: 20px;
+}
